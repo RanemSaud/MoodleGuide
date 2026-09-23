@@ -1,0 +1,26 @@
+{
+    "label_to_id": {
+        "assignment": 0,
+        "attendance": 1,
+        "course_content": 2,
+        "course_enrollment": 3,
+        "grades": 4,
+        "login_access": 5,
+        "notifications": 6,
+        "quiz_exam": 7,
+        "technical_problem": 8,
+        "virtual_class": 9
+    },
+    "id_to_label": {
+        "0": "assignment",
+        "1": "attendance",
+        "2": "course_content",
+        "3": "course_enrollment",
+        "4": "grades",
+        "5": "login_access",
+        "6": "notifications",
+        "7": "quiz_exam",
+        "8": "technical_problem",
+        "9": "virtual_class"
+    }
+}

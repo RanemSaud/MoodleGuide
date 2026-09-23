@@ -1,0 +1,12 @@
+﻿query,language,user_role,expected_topic,relevant_rank,recall_at_1,recall_at_3,recall_at_5,recall_at_10,reciprocal_rank,top_result_topic,top_result_question,top_result_score
+حسابي مقفل بعد عدة محاولات,ar,instructor,login_access,0,0,0,0,0,0.0,course_enrollment,كيف أضيف طالبًا إلى مقرري؟,0.6739
+A registered course is missing from my dashboard,en,student,course_enrollment,4,0,0,1,1,0.25,course_content,I cannot download the lecture file,0.6788
+أريد تمديد موعد تسليم التكليف,ar,instructor,assignment,9,0,0,0,1,0.1111,course_enrollment,كيف أضيف طالبًا إلى مقرري؟,0.6909
+Moodle will not accept my assignment file,en,student,assignment,0,0,0,0,0,0.0,notifications,I am not receiving course notifications,0.6627
+كيف أحدد عدد محاولات الاختبار؟,ar,instructor,quiz_exam,4,0,0,1,1,0.25,grades,درجات الاختبار غير ظاهرة للطلاب,0.6355
+I need to import questions into the quiz,en,instructor,quiz_exam,4,0,0,1,1,0.25,grades,درجات الاختبار غير ظاهرة للطلاب,0.6989
+نتيجتي تظهر بصفر رغم تسليم النشاط,ar,student,grades,6,0,0,0,1,0.1667,course_enrollment,لا يظهر لي مقرر معالجة اللغة الطبيعية,0.6397
+كيف أخفي المحاضرة حتى الأسبوع القادم؟,ar,instructor,course_content,4,0,0,1,1,0.25,notifications,How can I send an announcement to all students?,0.6208
+لا تصلني تنبيهات الواجبات الجديدة,ar,student,notifications,8,0,0,0,1,0.125,course_enrollment,لا يظهر لي مقرر معالجة اللغة الطبيعية,0.7558
+رابط المحاضرة المباشرة يعطيني صفحة فارغة,ar,student,virtual_class,9,0,0,0,1,0.1111,course_content,I cannot download the lecture file,0.7261
+يظهر خطأ غير معروف عند فتح النشاط,ar,student,technical_problem,0,0,0,0,0,0.0,grades,أين أستطيع مشاهدة درجاتي؟,0.7876

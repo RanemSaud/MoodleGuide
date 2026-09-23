@@ -1,0 +1,11 @@
+﻿,assignment,attendance,course_content,course_enrollment,grades,login_access,notifications,quiz_exam,technical_problem,virtual_class
+assignment,2,0,0,0,0,0,0,0,0,1
+attendance,2,1,0,0,0,0,0,0,0,0
+course_content,2,0,0,0,0,0,1,0,0,0
+course_enrollment,1,0,0,0,1,0,0,0,0,1
+grades,2,0,0,0,0,0,1,0,0,0
+login_access,0,0,0,0,1,1,0,0,1,0
+notifications,2,0,0,0,0,0,1,0,0,0
+quiz_exam,0,0,0,0,1,0,1,1,0,0
+technical_problem,0,0,0,0,1,0,0,1,0,1
+virtual_class,1,0,0,0,1,0,0,0,1,0

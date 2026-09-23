@@ -1,0 +1,9 @@
+{
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "index_type": "IndexFlatIP",
+    "pooling": "mean",
+    "normalized_embeddings": true,
+    "similarity": "cosine",
+    "dimension": 384,
+    "documents": 20
+}

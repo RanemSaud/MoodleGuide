@@ -1,0 +1,31 @@
+﻿id,text,language,user_role,topic,processed_text
+1,نسيت بيانات الدخول إلى المنصة,ar,student,login_access,نسيت بيانات الدخول الي المنصة
+2,حسابي مقفل بعد عدة محاولات,ar,instructor,login_access,حسابي مقفل بعد عدة محاولات
+3,Moodle rejects my username and password,en,student,login_access,Moodle rejects my username and password
+4,اختفت مادة البرمجة من الصفحة الرئيسية,ar,student,course_enrollment,اختفت مادة البرمجة من الصفحة الرئيسية
+5,أريد تسجيل مجموعة جديدة في المقرر,ar,instructor,course_enrollment,اريد تسجيل مجموعة جديدة في المقرر
+6,A registered course is missing from my dashboard,en,student,course_enrollment,A registered course is missing from my dashboard
+7,رفعت الملف ولكن حالة الواجب ما زالت مسودة,ar,student,assignment,رفعت الملف ولكن حالة الواجب ما زالت مسودة
+8,أريد تمديد موعد تسليم التكليف,ar,instructor,assignment,اريد تمديد موعد تسليم التكليف
+9,Moodle will not accept my assignment file,en,student,assignment,Moodle will not accept my assignment file
+10,انتهى الوقت قبل حفظ إجابات الاختبار,ar,student,quiz_exam,انتهي الوقت قبل حفظ اجابات الاختبار
+11,كيف أحدد عدد محاولات الاختبار؟,ar,instructor,quiz_exam,كيف احدد عدد محاولات الاختبار؟
+12,I need to import questions into the quiz,en,instructor,quiz_exam,I need to import questions into the quiz
+13,نتيجتي تظهر بصفر رغم تسليم النشاط,ar,student,grades,نتيجتي تظهر بصفر رغم تسليم النشاط
+14,كيف أعدّل درجة طالب يدويًا؟,ar,instructor,grades,كيف اعدل درجة طالب يدويا؟
+15,Students cannot see their final marks,en,instructor,grades,Students cannot see their final marks
+16,ملف المحاضرة لا يعمل بعد تنزيله,ar,student,course_content,ملف المحاضرة لا يعمل بعد تنزيله
+17,كيف أخفي المحاضرة حتى الأسبوع القادم؟,ar,instructor,course_content,كيف اخفي المحاضرة حتي الاسبوع القادم؟
+18,I want to add a video to the course page,en,instructor,course_content,I want to add a video to the course page
+19,تم تسجيلي غائبًا رغم حضوري,ar,student,attendance,تم تسجيلي غائبا رغم حضوري
+20,أحتاج إلى تصحيح سجل الحضور,ar,instructor,attendance,احتاج الي تصحيح سجل الحضور
+21,Where can I review my attendance record?,en,student,attendance,Where can I review my attendance record?
+22,لا تصلني تنبيهات الواجبات الجديدة,ar,student,notifications,لا تصلني تنبيهات الواجبات الجديدة
+23,كيف أرسل رسالة لجميع المسجلين؟,ar,instructor,notifications,كيف ارسل رسالة لجميع المسجلين؟
+24,Course announcements are not reaching my email,en,student,notifications,Course announcements are not reaching my email
+25,رابط المحاضرة المباشرة يعطيني صفحة فارغة,ar,student,virtual_class,رابط المحاضرة المباشرة يعطيني صفحة فارغة
+26,كيف أحدد موعد الفصل الافتراضي؟,ar,instructor,virtual_class,كيف احدد موعد الفصل الافتراضي؟
+27,The online session has no join button,en,student,virtual_class,The online session has no join button
+28,تتوقف الصفحة عند الضغط على حفظ,ar,instructor,technical_problem,تتوقف الصفحة عند الضغط علي حفظ
+29,يظهر خطأ غير معروف عند فتح النشاط,ar,student,technical_problem,يظهر خطا غير معروف عند فتح النشاط
+30,Moodle signs me out whenever I open the course,en,student,technical_problem,Moodle signs me out whenever I open the course

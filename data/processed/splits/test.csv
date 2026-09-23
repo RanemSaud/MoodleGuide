@@ -1,0 +1,61 @@
+﻿id,source_id,text,language,user_role,topic,sentiment,answer,route_to,preprocessing_version
+225,12,I need help. How can I upload lecture slides? in Moodle.,en,instructor,course_content,neutral,Turn editing on and add a File resource to the course section.,eLearning Support,1.0.0
+323,17,"Please help, The virtual classroom link does not open Could you help me?",en,student,virtual_class,negative,"Check the session time and allow pop-ups, then try the link again.",eLearning Support,1.0.0
+70,4,احتاج مساعدة، كيف اضيف طالبا الي مقرري؟ ما الحل؟,ar,instructor,course_enrollment,neutral,افتح المشاركين ثم اختر تسجيل المستخدمين إذا كانت لديك الصلاحية.,eLearning Support,1.0.0
+350,18,How do I add a virtual class to my course?,en,instructor,virtual_class,neutral,Turn editing on and add the available virtual classroom activity.,eLearning Support,1.0.0
+20,1,لو سمحت، لا استطيع تسجيل الدخول الي مودل ما الحل؟,ar,student,login_access,negative,استخدم خيار نسيت كلمة المرور أو تواصل مع الدعم التقني.,IT Support,1.0.0
+205,11,I need help. I cannot download the lecture file in Moodle.,en,student,course_content,negative,Refresh the course page and verify that the resource is available.,eLearning Support,1.0.0
+137,7,لو سمحت، تم اغلاق الاختبار قبل اكمال المحاولة وشكرا,ar,student,quiz_exam,negative,تحقق من وقت الاختبار ثم تواصل مباشرة مع مدرس المقرر.,Course Instructor,1.0.0
+201,11,Could you explain? I cannot download the lecture file,en,student,course_content,negative,Refresh the course page and verify that the resource is available.,eLearning Support,1.0.0
+208,11,"Please help, I cannot download the lecture file in Moodle.",en,student,course_content,negative,Refresh the course page and verify that the resource is available.,eLearning Support,1.0.0
+257,13,I have a question. My attendance status is incorrect What should I do?,en,student,attendance,negative,Contact the course instructor and provide the attendance date.,Course Instructor,1.0.0
+67,4,ممكن توضيح، كيف اضيف طالبا الي مقرري؟,ar,instructor,course_enrollment,neutral,افتح المشاركين ثم اختر تسجيل المستخدمين إذا كانت لديك الصلاحية.,eLearning Support,1.0.0
+195,10,احتاج مساعدة، درجات الاختبار غير ظاهرة للطلاب ما الحل؟,ar,instructor,grades,negative,راجع إعدادات خيارات المراجعة وإعدادات إظهار عنصر الدرجة.,eLearning Support,1.0.0
+85,5,السلام عليكم، لا يظهر لي زر تسليم الواجب في نظام مودل,ar,student,assignment,negative,تحقق من موعد فتح الواجب وموعد الإغلاق، ثم تواصل مع مدرس المقرر.,Course Instructor,1.0.0
+311,16,I have a question. How can I send an announcement to all students? Thank you.,en,instructor,notifications,neutral,Post the message in the course Announcements forum.,eLearning Support,1.0.0
+159,8,لو سمحت، كيف اضيف اسئلة عشوائية من بنك الاسئلة؟,ar,instructor,quiz_exam,neutral,افتح تحرير الاختبار ثم اختر إضافة سؤال عشوائي.,eLearning Support,1.0.0
+276,14,I have a question. How do I record student attendance?,en,instructor,attendance,neutral,"Open the Attendance activity, create a session, and record attendance.",eLearning Support,1.0.0
+16,1,عندي استفسار، لا استطيع تسجيل الدخول الي مودل في نظام مودل,ar,student,login_access,negative,استخدم خيار نسيت كلمة المرور أو تواصل مع الدعم التقني.,IT Support,1.0.0
+22,2,السلام عليكم، كيف اعيد تعيين كلمة مرور حسابي؟ في نظام مودل,ar,student,login_access,neutral,اضغط على نسيت كلمة المرور واتبع التعليمات المرسلة إلى بريدك.,IT Support,1.0.0
+111,6,لو سمحت، كيف انشئ واجبا جديدا للطلاب؟,ar,instructor,assignment,neutral,فعّل وضع التحرير ثم اختر إضافة نشاط من نوع واجب.,eLearning Support,1.0.0
+274,14,How do I record student attendance? in Moodle.,en,instructor,attendance,neutral,"Open the Attendance activity, create a session, and record attendance.",eLearning Support,1.0.0
+282,15,Could you explain? I am not receiving course notifications Thank you.,en,student,notifications,negative,Check your Moodle notification preferences and registered email.,IT Support,1.0.0
+394,20,I have a question. Students receive an error when opening the activity Could you help me?,en,instructor,technical_problem,negative,Review the activity restrictions and contact e-learning support.,eLearning Support,1.0.0
+50,3,عندي استفسار، لا يظهر لي مقرر معالجة اللغة الطبيعية وشكرا,ar,student,course_enrollment,negative,تحقق من تسجيلك في المقرر، ثم تواصل مع القبول والتسجيل.,Registration Department,1.0.0
+116,6,كيف انشئ واجبا جديدا للطلاب؟,ar,instructor,assignment,neutral,فعّل وضع التحرير ثم اختر إضافة نشاط من نوع واجب.,eLearning Support,1.0.0
+123,7,ممكن توضيح، تم اغلاق الاختبار قبل اكمال المحاولة,ar,student,quiz_exam,negative,تحقق من وقت الاختبار ثم تواصل مباشرة مع مدرس المقرر.,Course Instructor,1.0.0
+192,10,درجات الاختبار غير ظاهرة للطلاب في نظام مودل,ar,instructor,grades,negative,راجع إعدادات خيارات المراجعة وإعدادات إظهار عنصر الدرجة.,eLearning Support,1.0.0
+129,7,لو سمحت، تم اغلاق الاختبار قبل اكمال المحاولة,ar,student,quiz_exam,negative,تحقق من وقت الاختبار ثم تواصل مباشرة مع مدرس المقرر.,Course Instructor,1.0.0
+331,17,I have a question. The virtual classroom link does not open,en,student,virtual_class,negative,"Check the session time and allow pop-ups, then try the link again.",eLearning Support,1.0.0
+247,13,"Hello, My attendance status is incorrect",en,student,attendance,negative,Contact the course instructor and provide the attendance date.,Course Instructor,1.0.0
+76,4,كيف اضيف طالبا الي مقرري؟,ar,instructor,course_enrollment,neutral,افتح المشاركين ثم اختر تسجيل المستخدمين إذا كانت لديك الصلاحية.,eLearning Support,1.0.0
+295,15,I have a question. I am not receiving course notifications Could you help me?,en,student,notifications,negative,Check your Moodle notification preferences and registered email.,IT Support,1.0.0
+252,13,"Please help, My attendance status is incorrect Could you help me?",en,student,attendance,negative,Contact the course instructor and provide the attendance date.,Course Instructor,1.0.0
+26,2,عندي استفسار، كيف اعيد تعيين كلمة مرور حسابي؟ وشكرا,ar,student,login_access,neutral,اضغط على نسيت كلمة المرور واتبع التعليمات المرسلة إلى بريدك.,IT Support,1.0.0
+380,19,The Moodle page keeps loading without opening What should I do?,en,student,technical_problem,negative,Clear the browser cache and try another supported browser.,IT Support,1.0.0
+97,5,ممكن توضيح، لا يظهر لي زر تسليم الواجب ممكن تساعدوني؟,ar,student,assignment,negative,تحقق من موعد فتح الواجب وموعد الإغلاق، ثم تواصل مع مدرس المقرر.,Course Instructor,1.0.0
+102,6,كيف انشئ واجبا جديدا للطلاب؟ ممكن تساعدوني؟,ar,instructor,assignment,neutral,فعّل وضع التحرير ثم اختر إضافة نشاط من نوع واجب.,eLearning Support,1.0.0
+172,9,لو سمحت، اين استطيع مشاهدة درجاتي؟ في نظام مودل,ar,student,grades,neutral,افتح المقرر ثم اختر الدرجات من قائمة المقرر.,Course Instructor,1.0.0
+58,3,لا يظهر لي مقرر معالجة اللغة الطبيعية ما الحل؟,ar,student,course_enrollment,negative,تحقق من تسجيلك في المقرر، ثم تواصل مع القبول والتسجيل.,Registration Department,1.0.0
+263,14,How do I record student attendance? Thank you.,en,instructor,attendance,neutral,"Open the Attendance activity, create a session, and record attendance.",eLearning Support,1.0.0
+364,19,I have a question. The Moodle page keeps loading without opening in Moodle.,en,student,technical_problem,negative,Clear the browser cache and try another supported browser.,IT Support,1.0.0
+337,17,I need help. The virtual classroom link does not open in Moodle.,en,student,virtual_class,negative,"Check the session time and allow pop-ups, then try the link again.",eLearning Support,1.0.0
+35,2,عندي استفسار، كيف اعيد تعيين كلمة مرور حسابي؟ في نظام مودل,ar,student,login_access,neutral,اضغط على نسيت كلمة المرور واتبع التعليمات المرسلة إلى بريدك.,IT Support,1.0.0
+171,9,لو سمحت، اين استطيع مشاهدة درجاتي؟,ar,student,grades,neutral,افتح المقرر ثم اختر الدرجات من قائمة المقرر.,Course Instructor,1.0.0
+160,8,كيف اضيف اسئلة عشوائية من بنك الاسئلة؟ ما الحل؟,ar,instructor,quiz_exam,neutral,افتح تحرير الاختبار ثم اختر إضافة سؤال عشوائي.,eLearning Support,1.0.0
+224,12,Could you explain? How can I upload lecture slides? What should I do?,en,instructor,course_content,neutral,Turn editing on and add a File resource to the course section.,eLearning Support,1.0.0
+147,8,لو سمحت، كيف اضيف اسئلة عشوائية من بنك الاسئلة؟ ممكن تساعدوني؟,ar,instructor,quiz_exam,neutral,افتح تحرير الاختبار ثم اختر إضافة سؤال عشوائي.,eLearning Support,1.0.0
+346,18,I have a question. How do I add a virtual class to my course? Thank you.,en,instructor,virtual_class,neutral,Turn editing on and add the available virtual classroom activity.,eLearning Support,1.0.0
+57,3,ممكن توضيح، لا يظهر لي مقرر معالجة اللغة الطبيعية ممكن تساعدوني؟,ar,student,course_enrollment,negative,تحقق من تسجيلك في المقرر، ثم تواصل مع القبول والتسجيل.,Registration Department,1.0.0
+314,16,I need help. How can I send an announcement to all students? What should I do?,en,instructor,notifications,neutral,Post the message in the course Announcements forum.,eLearning Support,1.0.0
+161,9,احتاج مساعدة، اين استطيع مشاهدة درجاتي؟ وشكرا,ar,student,grades,neutral,افتح المقرر ثم اختر الدرجات من قائمة المقرر.,Course Instructor,1.0.0
+94,5,لا يظهر لي زر تسليم الواجب ما الحل؟,ar,student,assignment,negative,تحقق من موعد فتح الواجب وموعد الإغلاق، ثم تواصل مع مدرس المقرر.,Course Instructor,1.0.0
+360,18,"Hello, How do I add a virtual class to my course? Thank you.",en,instructor,virtual_class,neutral,Turn editing on and add the available virtual classroom activity.,eLearning Support,1.0.0
+366,19,"Please help, The Moodle page keeps loading without opening in Moodle.",en,student,technical_problem,negative,Clear the browser cache and try another supported browser.,IT Support,1.0.0
+381,20,Could you explain? Students receive an error when opening the activity,en,instructor,technical_problem,negative,Review the activity restrictions and contact e-learning support.,eLearning Support,1.0.0
+319,16,"Hello, How can I send an announcement to all students? in Moodle.",en,instructor,notifications,neutral,Post the message in the course Announcements forum.,eLearning Support,1.0.0
+19,1,لا استطيع تسجيل الدخول الي مودل في نظام مودل,ar,student,login_access,negative,استخدم خيار نسيت كلمة المرور أو تواصل مع الدعم التقني.,IT Support,1.0.0
+384,20,Students receive an error when opening the activity What should I do?,en,instructor,technical_problem,negative,Review the activity restrictions and contact e-learning support.,eLearning Support,1.0.0
+240,12,Could you explain? How can I upload lecture slides?,en,instructor,course_content,neutral,Turn editing on and add a File resource to the course section.,eLearning Support,1.0.0
+281,15,"Please help, I am not receiving course notifications",en,student,notifications,negative,Check your Moodle notification preferences and registered email.,IT Support,1.0.0
+198,10,احتاج مساعدة، درجات الاختبار غير ظاهرة للطلاب ممكن تساعدوني؟,ar,instructor,grades,negative,راجع إعدادات خيارات المراجعة وإعدادات إظهار عنصر الدرجة.,eLearning Support,1.0.0

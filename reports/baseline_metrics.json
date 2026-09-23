@@ -1,0 +1,35 @@
+{
+    "model": "TF-IDF character n-grams + Logistic Regression",
+    "validation": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    },
+    "test": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0
+    },
+    "language_slices": {
+        "ar": {
+            "records": 30,
+            "accuracy": 1.0,
+            "macro_f1": 1.0
+        },
+        "en": {
+            "records": 30,
+            "accuracy": 1.0,
+            "macro_f1": 1.0
+        }
+    },
+    "role_slices": {
+        "instructor": {
+            "records": 27,
+            "accuracy": 1.0,
+            "macro_f1": 1.0
+        },
+        "student": {
+            "records": 33,
+            "accuracy": 1.0,
+            "macro_f1": 1.0
+        }
+    }
+}

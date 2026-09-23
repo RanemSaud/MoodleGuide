@@ -1,0 +1,19 @@
+{
+    "endpoint": "http://127.0.0.1:8000/v1/ask",
+    "concurrency": 16,
+    "total_requests": 50,
+    "successful_requests": 50,
+    "failed_requests": 0,
+    "success_rate": 1.0,
+    "total_time_seconds": 1.7124,
+    "throughput_requests_per_second": 29.1982,
+    "latency_ms": {
+        "minimum": 166.2171,
+        "mean": 514.662,
+        "median": 527.164,
+        "p50": 527.164,
+        "p95": 568.6868,
+        "p99": 573.0629,
+        "maximum": 575.4745
+    }
+}

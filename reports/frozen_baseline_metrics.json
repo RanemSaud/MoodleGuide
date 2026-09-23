@@ -1,0 +1,82 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "dataset": "frozen_test_v1",
+    "records": 30,
+    "accuracy": 0.3,
+    "macro_f1": 0.2447,
+    "classification_report": {
+        "assignment": {
+            "precision": 0.4,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.5,
+            "support": 3.0
+        },
+        "attendance": {
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.5,
+            "support": 3.0
+        },
+        "course_content": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "course_enrollment": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "grades": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "login_access": {
+            "precision": 0.4,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.5,
+            "support": 3.0
+        },
+        "notifications": {
+            "precision": 0.2,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.25,
+            "support": 3.0
+        },
+        "quiz_exam": {
+            "precision": 0.25,
+            "recall": 0.6666666666666666,
+            "f1-score": 0.36363636363636365,
+            "support": 3.0
+        },
+        "technical_problem": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.3333333333333333,
+            "support": 3.0
+        },
+        "virtual_class": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "accuracy": 0.3,
+        "macro avg": {
+            "precision": 0.25833333333333336,
+            "recall": 0.3,
+            "f1-score": 0.24469696969696972,
+            "support": 30.0
+        },
+        "weighted avg": {
+            "precision": 0.25833333333333336,
+            "recall": 0.3,
+            "f1-score": 0.2446969696969697,
+            "support": 30.0
+        }
+    }
+}

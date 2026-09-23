@@ -1,0 +1,31 @@
+﻿query,language,user_role,expected_topic,relevant_rank,recall_at_1,recall_at_3,recall_at_5,recall_at_10,reciprocal_rank,top_result_topic,top_result_question,top_result_score
+نسيت بيانات الدخول إلى المنصة,ar,student,login_access,1,1,1,1,1,1.0,login_access,لا أستطيع تسجيل الدخول إلى مودل,0.6985
+حسابي مقفل بعد عدة محاولات,ar,instructor,login_access,0,0,0,0,0,0.0,course_enrollment,كيف أضيف طالبًا إلى مقرري؟,0.6739
+Moodle rejects my username and password,en,student,login_access,2,0,1,1,1,0.5,notifications,I am not receiving course notifications,0.5671
+اختفت مادة البرمجة من الصفحة الرئيسية,ar,student,course_enrollment,2,0,1,1,1,0.5,course_content,I cannot download the lecture file,0.7129
+أريد تسجيل مجموعة جديدة في المقرر,ar,instructor,course_enrollment,2,0,1,1,1,0.5,attendance,How do I record student attendance?,0.6442
+A registered course is missing from my dashboard,en,student,course_enrollment,4,0,0,1,1,0.25,course_content,I cannot download the lecture file,0.6788
+رفعت الملف ولكن حالة الواجب ما زالت مسودة,ar,student,assignment,1,1,1,1,1,1.0,assignment,لا يظهر لي زر تسليم الواجب,0.8333
+أريد تمديد موعد تسليم التكليف,ar,instructor,assignment,9,0,0,0,1,0.1111,course_enrollment,كيف أضيف طالبًا إلى مقرري؟,0.6909
+Moodle will not accept my assignment file,en,student,assignment,0,0,0,0,0,0.0,notifications,I am not receiving course notifications,0.6627
+انتهى الوقت قبل حفظ إجابات الاختبار,ar,student,quiz_exam,1,1,1,1,1,1.0,quiz_exam,تم إغلاق الاختبار قبل إكمال المحاولة,0.8216
+كيف أحدد عدد محاولات الاختبار؟,ar,instructor,quiz_exam,4,0,0,1,1,0.25,grades,درجات الاختبار غير ظاهرة للطلاب,0.6355
+I need to import questions into the quiz,en,instructor,quiz_exam,4,0,0,1,1,0.25,grades,درجات الاختبار غير ظاهرة للطلاب,0.6989
+نتيجتي تظهر بصفر رغم تسليم النشاط,ar,student,grades,6,0,0,0,1,0.1667,course_enrollment,لا يظهر لي مقرر معالجة اللغة الطبيعية,0.6397
+كيف أعدّل درجة طالب يدويًا؟,ar,instructor,grades,1,1,1,1,1,1.0,grades,درجات الاختبار غير ظاهرة للطلاب,0.709
+Students cannot see their final marks,en,instructor,grades,1,1,1,1,1,1.0,grades,درجات الاختبار غير ظاهرة للطلاب,0.6131
+ملف المحاضرة لا يعمل بعد تنزيله,ar,student,course_content,2,0,1,1,1,0.5,course_enrollment,لا يظهر لي مقرر معالجة اللغة الطبيعية,0.7601
+كيف أخفي المحاضرة حتى الأسبوع القادم؟,ar,instructor,course_content,4,0,0,1,1,0.25,notifications,How can I send an announcement to all students?,0.6208
+I want to add a video to the course page,en,instructor,course_content,1,1,1,1,1,1.0,course_content,How can I upload lecture slides?,0.7145
+تم تسجيلي غائبًا رغم حضوري,ar,student,attendance,1,1,1,1,1,1.0,attendance,My attendance status is incorrect,0.6449
+أحتاج إلى تصحيح سجل الحضور,ar,instructor,attendance,1,1,1,1,1,1.0,attendance,How do I record student attendance?,0.7067
+Where can I review my attendance record?,en,student,attendance,1,1,1,1,1,1.0,attendance,My attendance status is incorrect,0.7291
+لا تصلني تنبيهات الواجبات الجديدة,ar,student,notifications,8,0,0,0,1,0.125,course_enrollment,لا يظهر لي مقرر معالجة اللغة الطبيعية,0.7558
+كيف أرسل رسالة لجميع المسجلين؟,ar,instructor,notifications,1,1,1,1,1,1.0,notifications,How can I send an announcement to all students?,0.7324
+Course announcements are not reaching my email,en,student,notifications,2,0,1,1,1,0.5,attendance,My attendance status is incorrect,0.7219
+رابط المحاضرة المباشرة يعطيني صفحة فارغة,ar,student,virtual_class,9,0,0,0,1,0.1111,course_content,I cannot download the lecture file,0.7261
+كيف أحدد موعد الفصل الافتراضي؟,ar,instructor,virtual_class,1,1,1,1,1,1.0,virtual_class,How do I add a virtual class to my course?,0.7528
+The online session has no join button,en,student,virtual_class,1,1,1,1,1,1.0,virtual_class,The virtual classroom link does not open,0.6823
+تتوقف الصفحة عند الضغط على حفظ,ar,instructor,technical_problem,1,1,1,1,1,1.0,technical_problem,Students receive an error when opening the activity,0.6673
+يظهر خطأ غير معروف عند فتح النشاط,ar,student,technical_problem,0,0,0,0,0,0.0,grades,أين أستطيع مشاهدة درجاتي؟,0.7876
+Moodle signs me out whenever I open the course,en,student,technical_problem,3,0,1,1,1,0.3333,notifications,I am not receiving course notifications,0.6619

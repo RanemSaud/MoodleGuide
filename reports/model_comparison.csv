@@ -1,0 +1,3 @@
+﻿model,accuracy,macro_f1
+TF-IDF + Logistic Regression,0.3,0.2447
+Multilingual DistilBERT,0.2,0.1952

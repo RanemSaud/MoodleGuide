@@ -1,0 +1,130 @@
+{
+    "evaluation": "semantic_search",
+    "relevance_definition": "A result is relevant when its topic matches the expected query topic.",
+    "overall": {
+        "queries": 30,
+        "recall_at_1": 0.4333,
+        "recall_at_3": 0.6333,
+        "recall_at_5": 0.7667,
+        "recall_at_10": 0.9,
+        "mrr_at_10": 0.5782
+    },
+    "language_slices": {
+        "ar": {
+            "queries": 20,
+            "recall_at_1": 0.45,
+            "recall_at_3": 0.6,
+            "recall_at_5": 0.7,
+            "recall_at_10": 0.9,
+            "mrr_at_10": 0.5757
+        },
+        "en": {
+            "queries": 10,
+            "recall_at_1": 0.4,
+            "recall_at_3": 0.7,
+            "recall_at_5": 0.9,
+            "recall_at_10": 0.9,
+            "mrr_at_10": 0.5833
+        }
+    },
+    "role_slices": {
+        "instructor": {
+            "queries": 13,
+            "recall_at_1": 0.5385,
+            "recall_at_3": 0.6154,
+            "recall_at_5": 0.8462,
+            "recall_at_10": 0.9231,
+            "mrr_at_10": 0.6432
+        },
+        "student": {
+            "queries": 17,
+            "recall_at_1": 0.3529,
+            "recall_at_3": 0.6471,
+            "recall_at_5": 0.7059,
+            "recall_at_10": 0.8824,
+            "mrr_at_10": 0.5286
+        }
+    },
+    "topic_slices": {
+        "assignment": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.3333,
+            "recall_at_5": 0.3333,
+            "recall_at_10": 0.6667,
+            "mrr_at_10": 0.3704
+        },
+        "attendance": {
+            "queries": 3,
+            "recall_at_1": 1.0,
+            "recall_at_3": 1.0,
+            "recall_at_5": 1.0,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 1.0
+        },
+        "course_content": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 1.0,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.5833
+        },
+        "course_enrollment": {
+            "queries": 3,
+            "recall_at_1": 0.0,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 1.0,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.4167
+        },
+        "grades": {
+            "queries": 3,
+            "recall_at_1": 0.6667,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 0.6667,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.7222
+        },
+        "login_access": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 0.6667,
+            "recall_at_10": 0.6667,
+            "mrr_at_10": 0.5
+        },
+        "notifications": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 0.6667,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.5417
+        },
+        "quiz_exam": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.3333,
+            "recall_at_5": 1.0,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.5
+        },
+        "technical_problem": {
+            "queries": 3,
+            "recall_at_1": 0.3333,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 0.6667,
+            "recall_at_10": 0.6667,
+            "mrr_at_10": 0.4444
+        },
+        "virtual_class": {
+            "queries": 3,
+            "recall_at_1": 0.6667,
+            "recall_at_3": 0.6667,
+            "recall_at_5": 0.6667,
+            "recall_at_10": 1.0,
+            "mrr_at_10": 0.7037
+        }
+    }
+}

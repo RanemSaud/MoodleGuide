@@ -1,0 +1,21 @@
+﻿id,text,language,user_role,topic,sentiment,answer,route_to,processed_text,preprocessing_version
+1,لا أستطيع تسجيل الدخول إلى مودل,ar,student,login_access,negative,استخدم خيار نسيت كلمة المرور أو تواصل مع الدعم التقني.,IT Support,لا استطيع تسجيل الدخول الي مودل,1.0.0
+2,كيف أعيد تعيين كلمة مرور حسابي؟,ar,student,login_access,neutral,اضغط على نسيت كلمة المرور واتبع التعليمات المرسلة إلى بريدك.,IT Support,كيف اعيد تعيين كلمة مرور حسابي؟,1.0.0
+3,لا يظهر لي مقرر معالجة اللغة الطبيعية,ar,student,course_enrollment,negative,تحقق من تسجيلك في المقرر، ثم تواصل مع القبول والتسجيل.,Registration Department,لا يظهر لي مقرر معالجة اللغة الطبيعية,1.0.0
+4,كيف أضيف طالبًا إلى مقرري؟,ar,instructor,course_enrollment,neutral,افتح المشاركين ثم اختر تسجيل المستخدمين إذا كانت لديك الصلاحية.,eLearning Support,كيف اضيف طالبا الي مقرري؟,1.0.0
+5,لا يظهر لي زر تسليم الواجب,ar,student,assignment,negative,تحقق من موعد فتح الواجب وموعد الإغلاق، ثم تواصل مع مدرس المقرر.,Course Instructor,لا يظهر لي زر تسليم الواجب,1.0.0
+6,كيف أنشئ واجبًا جديدًا للطلاب؟,ar,instructor,assignment,neutral,فعّل وضع التحرير ثم اختر إضافة نشاط من نوع واجب.,eLearning Support,كيف انشئ واجبا جديدا للطلاب؟,1.0.0
+7,تم إغلاق الاختبار قبل إكمال المحاولة,ar,student,quiz_exam,negative,تحقق من وقت الاختبار ثم تواصل مباشرة مع مدرس المقرر.,Course Instructor,تم اغلاق الاختبار قبل اكمال المحاولة,1.0.0
+8,كيف أضيف أسئلة عشوائية من بنك الأسئلة؟,ar,instructor,quiz_exam,neutral,افتح تحرير الاختبار ثم اختر إضافة سؤال عشوائي.,eLearning Support,كيف اضيف اسئلة عشوائية من بنك الاسئلة؟,1.0.0
+9,أين أستطيع مشاهدة درجاتي؟,ar,student,grades,neutral,افتح المقرر ثم اختر الدرجات من قائمة المقرر.,Course Instructor,اين استطيع مشاهدة درجاتي؟,1.0.0
+10,درجات الاختبار غير ظاهرة للطلاب,ar,instructor,grades,negative,راجع إعدادات خيارات المراجعة وإعدادات إظهار عنصر الدرجة.,eLearning Support,درجات الاختبار غير ظاهرة للطلاب,1.0.0
+11,I cannot download the lecture file,en,student,course_content,negative,Refresh the course page and verify that the resource is available.,eLearning Support,I cannot download the lecture file,1.0.0
+12,How can I upload lecture slides?,en,instructor,course_content,neutral,Turn editing on and add a File resource to the course section.,eLearning Support,How can I upload lecture slides?,1.0.0
+13,My attendance status is incorrect,en,student,attendance,negative,Contact the course instructor and provide the attendance date.,Course Instructor,My attendance status is incorrect,1.0.0
+14,How do I record student attendance?,en,instructor,attendance,neutral,"Open the Attendance activity, create a session, and record attendance.",eLearning Support,How do I record student attendance?,1.0.0
+15,I am not receiving course notifications,en,student,notifications,negative,Check your Moodle notification preferences and registered email.,IT Support,I am not receiving course notifications,1.0.0
+16,How can I send an announcement to all students?,en,instructor,notifications,neutral,Post the message in the course Announcements forum.,eLearning Support,How can I send an announcement to all students?,1.0.0
+17,The virtual classroom link does not open,en,student,virtual_class,negative,"Check the session time and allow pop-ups, then try the link again.",eLearning Support,The virtual classroom link does not open,1.0.0
+18,How do I add a virtual class to my course?,en,instructor,virtual_class,neutral,Turn editing on and add the available virtual classroom activity.,eLearning Support,How do I add a virtual class to my course?,1.0.0
+19,The Moodle page keeps loading without opening,en,student,technical_problem,negative,Clear the browser cache and try another supported browser.,IT Support,The Moodle page keeps loading without opening,1.0.0
+20,Students receive an error when opening the activity,en,instructor,technical_problem,negative,Review the activity restrictions and contact e-learning support.,eLearning Support,Students receive an error when opening the activity,1.0.0

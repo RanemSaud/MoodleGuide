@@ -1,0 +1,11 @@
+{
+    "evaluation": "rule_based_entity_extraction",
+    "test_cases": 12,
+    "true_positive": 22,
+    "false_positive": 3,
+    "false_negative": 5,
+    "precision": 0.88,
+    "recall": 0.8148,
+    "f1": 0.8462,
+    "exact_match_accuracy": 0.5
+}
